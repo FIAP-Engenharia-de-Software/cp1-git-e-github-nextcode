@@ -7,9 +7,7 @@
 
 <h2>📝 Sobre o Projeto</h2>
 <p>
-  O <b>Social Connect</b> é uma plataforma focada em aproximar pessoas através de interesses em comum, 
-  facilitando a criação de redes de contatos e o engajamento em comunidades digitais. 
-  O projeto visa oferecer uma interface intuitiva e funcional para a gestão de conexões sociais.
+  O <b>Social Connect</b> É uma empresa inovadora de carros focada no setor automotivo que busca fabricar carros elétricos de alta performance.
 </p>
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
@@ -17,6 +15,7 @@
   <li><b>HTML5:</b> Estruturação de conteúdo.</li>
   <li><b>CSS3:</b> Estilização e layout responsivo.</li>
   <li><b>GitHub Pages:</b> Hospedagem.</li>
+   <li><b>VSCode:</b> Escrita e edição de código.</li>
 </ul>
 
 <h2>👥 Integrantes do Grupo</h2>
