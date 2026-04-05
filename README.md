@@ -7,7 +7,7 @@
 
 <h2>📝 Sobre o Projeto</h2>
 <p>
-  O <b>Social Connect</b> É uma empresa inovadora de carros focada no setor automotivo que busca fabricar carros elétricos de alta performance.
+  O <b>Social Connect</b> O SocialConnect é uma plataforma desenvolvida para fortalecer o ecossistema de tecnologia, atuando como uma ponte entre talentos e conhecimento. O projeto nasce da necessidade de centralizar a interação entre programadores. Com uma interface intuitiva, o SocialConnect remove barreiras de entrada para novos desenvolvedores e potencializa a colaboração em projetos open-source e iniciativas educacionais.
 </p>
 
 <h2>🛠️ Tecnologias Utilizadas</h2>
