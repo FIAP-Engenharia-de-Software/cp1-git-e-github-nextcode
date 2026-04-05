@@ -37,7 +37,7 @@
 <h2>🌐 Link do Projeto</h2>
 <p>
   O site está disponível em: 
-  <a 
+  <a> https://fiap-engenharia-de-software.github.io/cp1-git-e-github-nextcode/
   </a>
 </p>
 
